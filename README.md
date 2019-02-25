@@ -5,3 +5,5 @@
 ```
 face_recognition ./known_people/ ./unknown_pictures/
 ```
+
+![demo](demo.png)
